@@ -1,0 +1,7 @@
+path: D:\ultralytics-main\zzzaaa_project\voc\yolo\output
+test: images\test
+train: images\train
+val: images\val
+# 类别名称
+nc: 9  # 类别数量
+names: ['H-电池', 'K-水果', 'K-果皮', 'K-蔬菜皮', 'K-蔬菜', 'O-陶瓷', 'O-香烟', 'R-瓶子', 'R-罐子']  # 类别名称列表

@@ -1,0 +1,58 @@
+/* 设置背景图片 */
+.gradio-container.gradio-container-4-32-2.svelte-182fdeq.app {
+    background-image: url('https://images.unsplash.com/photo-1577563908411-5077b6dc7624?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg&w=2400');
+    background-size: cover; /* 整张图片覆盖页面 */
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px; /* 添加一些内边距 */
+}
+/* test1.css 最终代码 */
+/*
+    下拉框1： 性别 ； 标签的 class="dropDown sex"
+*/
+#component-7{
+    width:400px;
+    height:auto;
+    color:white;
+    background: royalblue;
+}
+
+/*
+    下拉框2： 特长 ； 标签的 id="dropDown specialty"
+*/
+#dropDownSpecialty{
+    width:500px;
+    height:auto;
+    color:white;
+    background: deepskyblue;
+}
+
+/*
+    2个 下拉框 组件的 父级元素 class 都是 ".form.svelte-sfqy0y"
+*/
+.form.svelte-sfqy0y{
+    width:inherit;
+    height:auto;
+    color:white;
+}
+
+/*
+    gradio 组件号 为 component-2  的 标签 id = "component-2"
+*/
+#component-2{
+    width:400px;
+}
+
+/*
+    gradio 组件号 为 component-5  的 标签 id = "component-5"
+*/
+#component-5{
+    width:500px;
+}
+
+/*
+    同一 全局的 span 标签 的字体颜色 为 黑色
+*/
+span{
+    color : black;
+}

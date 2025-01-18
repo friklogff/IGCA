@@ -1,0 +1,10 @@
+names:
+- recyclable waste
+- hazardous waste
+- kitchen waste
+- other waste
+nc: 4
+path: D:\ultralytics-main\zzzaaa_project\fl\dataset
+test: images\test
+train: images\train
+val: images\val

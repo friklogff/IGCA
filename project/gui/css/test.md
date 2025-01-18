@@ -1,0 +1,27 @@
+border-style:solid;
+bottom:0;
+box-sizing:border-box;
+display:flex;
+flex-direction:column;
+flex-grow:1;
+font-family:"Source Sans Pro",ui-sans-serif,"system-ui",sans-serif;
+height:941.333px;
+left:0;
+line-height:24px;
+margin-left:123.667px;
+margin-right:123.667px;
+max-width:768px;
+min-block-size:auto;
+min-height:auto;
+min-inline-size:auto;
+min-width:auto;
+overflow-x:hidden;
+overflow-y:hidden;
+padding:16px 32px;
+position:relative;
+right:0;
+tab-size:4;
+text-size-adjust:100%;
+top:0;
+width:768px;
+-webkit-locale:"zh-CN"
