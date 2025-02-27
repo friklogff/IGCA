@@ -26,7 +26,7 @@ with open(args.test_list, 'r') as file:
 
 # 随机选择30个音频文件路径
 random.shuffle(lines)
-selected_lines = lines[:30]
+selected_lines = lines[:15]
 
 # 提取音频文件路径
 audio_file_paths = [line.strip().split('\t')[0] for line in selected_lines]
